@@ -27,6 +27,6 @@ This CLI-based rent calculator helps people living together divide their monthly
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Shivaay21/rent-calculator.git
+[git clone https://github.com/Shivaay21/rent-calculator.git](https://github.com/Shivaay21/roommate-rent-splitter.git)
 cd rent-calculator
 
